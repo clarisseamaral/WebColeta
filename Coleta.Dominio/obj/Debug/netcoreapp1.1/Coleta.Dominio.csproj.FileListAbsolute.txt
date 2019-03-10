@@ -1,0 +1,7 @@
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Dominio\bin\Debug\netcoreapp1.1\Coleta.Dominio.deps.json
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Dominio\bin\Debug\netcoreapp1.1\Coleta.Dominio.dll
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Dominio\bin\Debug\netcoreapp1.1\Coleta.Dominio.pdb
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Dominio\obj\Debug\netcoreapp1.1\Coleta.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Dominio\obj\Debug\netcoreapp1.1\Coleta.Dominio.AssemblyInfo.cs
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Dominio\obj\Debug\netcoreapp1.1\Coleta.Dominio.dll
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Dominio\obj\Debug\netcoreapp1.1\Coleta.Dominio.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.73
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coleta.Negocio", "Coleta.Negocio\Coleta.Negocio.csproj", "{7797759B-7E99-447B-9359-275D6E38B629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coleta.Dominio", "Coleta.Dominio\Coleta.Dominio.csproj", "{5DD504E3-DD35-490D-B3F0-8E7A6C8B5809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coleta.WebAPI", "Coleta.WebAPI\Coleta.WebAPI.csproj", "{3B39A9E8-55BE-4772-9407-892545CB9771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coleta.Dados", "Coleta.Dados\Coleta.Dados.csproj", "{0763BD7D-5BD9-41A6-861B-0B91AA34F6E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7797759B-7E99-447B-9359-275D6E38B629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7797759B-7E99-447B-9359-275D6E38B629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7797759B-7E99-447B-9359-275D6E38B629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7797759B-7E99-447B-9359-275D6E38B629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD504E3-DD35-490D-B3F0-8E7A6C8B5809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD504E3-DD35-490D-B3F0-8E7A6C8B5809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD504E3-DD35-490D-B3F0-8E7A6C8B5809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD504E3-DD35-490D-B3F0-8E7A6C8B5809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B39A9E8-55BE-4772-9407-892545CB9771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B39A9E8-55BE-4772-9407-892545CB9771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B39A9E8-55BE-4772-9407-892545CB9771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B39A9E8-55BE-4772-9407-892545CB9771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0763BD7D-5BD9-41A6-861B-0B91AA34F6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0763BD7D-5BD9-41A6-861B-0B91AA34F6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0763BD7D-5BD9-41A6-861B-0B91AA34F6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0763BD7D-5BD9-41A6-861B-0B91AA34F6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

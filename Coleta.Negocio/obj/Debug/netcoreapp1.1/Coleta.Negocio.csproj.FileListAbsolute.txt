@@ -1,0 +1,9 @@
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\bin\Debug\netcoreapp1.1\Coleta.Negocio.deps.json
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\bin\Debug\netcoreapp1.1\Coleta.Negocio.dll
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\bin\Debug\netcoreapp1.1\Coleta.Negocio.pdb
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\bin\Debug\netcoreapp1.1\Coleta.Dominio.dll
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\bin\Debug\netcoreapp1.1\Coleta.Dominio.pdb
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\obj\Debug\netcoreapp1.1\Coleta.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\obj\Debug\netcoreapp1.1\Coleta.Negocio.AssemblyInfo.cs
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\obj\Debug\netcoreapp1.1\Coleta.Negocio.dll
+C:\Users\Clarisse.DESKTOP-LGHJ8Q7\Desktop\WebColeta\Coleta.Negocio\obj\Debug\netcoreapp1.1\Coleta.Negocio.pdb
